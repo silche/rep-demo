@@ -1,4 +1,3 @@
 New Text Doc
 It's new line from Web
 Third line
-----------------------
